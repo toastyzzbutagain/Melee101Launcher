@@ -1,4 +1,4 @@
-# Melee101Launcher
+# MeleeLauncher
 A accessable &amp; open-source launcher for Windows made in Python for Melee101.
 
 ## Explanation:
